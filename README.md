@@ -63,6 +63,12 @@ Here will load the trained model and test it using pytest
 ### Clone and running
 
 - @STEP1: git clone <URL_LINK>
-- @STEP2: virtualenv venv
-- @STEP3: source venv/bin/active
-- @STEP4: sudo pip install -r requirements.txt
+- @STEP2: 
+  - (Linux):  virtualenv venv
+  - (Window): virtualenv --system-site-packages -p python ./venv
+- @STEP3: 
+  - (Linux): source venv/bin/activate
+  - (Window): .\venv\Scripts\activate
+- @STEP4: 
+  - (Linux): sudo pip3 install -r requirements.txt
+  - (Window): pip install -r requirements.txt
