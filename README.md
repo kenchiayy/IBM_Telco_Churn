@@ -58,3 +58,9 @@ Deploy model using pickle
 Path: Test
 
 Here will load the trained model and test it using pytest
+
+Terminal after clone
+
+@STEP1: virtualenv venv
+@STEP2: source venv/bin/active
+@STEP3: sudo pip install -r requirements.txt
