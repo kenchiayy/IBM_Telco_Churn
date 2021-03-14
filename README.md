@@ -34,6 +34,7 @@ These are the requirements:
 ### Training
 
 Path: Train
+
 The training of the model will be done in Jupyter Notebook, it will consist of the the following steps:
 
 - Importing Data from a File
