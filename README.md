@@ -59,8 +59,10 @@ Path: Test
 
 Here will load the trained model and test it using pytest
 
-Terminal after clone
 
-@STEP1: virtualenv venv
-@STEP2: source venv/bin/active
-@STEP3: sudo pip install -r requirements.txt
+### Clone and running
+
+- @STEP1: git clone <URL_LINK>
+- @STEP2: virtualenv venv
+- @STEP3: source venv/bin/active
+- @STEP4: sudo pip install -r requirements.txt
