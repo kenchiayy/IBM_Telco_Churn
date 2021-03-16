@@ -46,12 +46,10 @@ The training of the model will be done in Jupyter Notebook, it will consist of t
   - Splitting data into Dependent and Independent Variables
   - Ordinal Label Encoding (Monotonic relationship)
   - Converting all columns to Int, Float or Bool
-Building a Prelimary XGBoost Model
-
-Optimizing Parameters with Cross Validation and GridSearch
-
-Optimizing the learning rate, tree depth, number of trees, gamma (for prunning) and lambda (for regularization).
-Deploy model using pickle
+- Building a Prelimary XGBoost Model
+- Optimizing Parameters with Cross Validation and GridSearch
+- Optimizing the learning rate, tree depth, number of trees, gamma (for prunning) and lambda (for regularization).
+- Deploy model using pickle
 
 ### Testing
 
